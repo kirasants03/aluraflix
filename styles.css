@@ -4,4 +4,15 @@ body {
 }
 header {
     border-bottom:solid 2px  rgb(135, 59, 205); 
+padding: 40px;
+font-size: 50px;
+color:darkviolet;
 }
+
+
+section { 
+    background: rgb(0 104 255);
+    padding-bottom: 80px;
+    padding-top: 80px;
+}
+
