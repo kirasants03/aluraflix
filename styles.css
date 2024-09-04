@@ -1,6 +1,7 @@
 body {
     color:darkviolet;
     background:azure;
+    font-family: "Protest Guerrilla", sans-serif;
 }
 header {
     border-bottom:solid 2px  rgb(135, 59, 205); 
@@ -18,8 +19,20 @@ section {
     justify-content: center;
 }
 
-div{
-    
+.chamada-texto{ 
+    margin-right: 5%;
 }
+
+h1{
+    font-size: 40px;
+}
+
+p{
+    font-size: 20px;
+}
+
+
+
+
 
 
